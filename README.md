@@ -1,6 +1,6 @@
 <h1>ATIVIDADES</h1>
 
-<strong>1. O que é criptografia?/strong>
+<strong>1. O que é criptografia?</strong>
 
 A criptografia é a prática de usar algoritmos matemáticos para converter informações legíveis em um formato incompreensível (criptografado). Durante a transmissão e o armazenamento de dados, esse processo impede que pessoas não autorizadas os acessem.
 
